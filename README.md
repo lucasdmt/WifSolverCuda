@@ -1,3 +1,6 @@
+https://bitcointalk.org/index.php?topic=5382190.20
+https://github.com/PawelGorny/WifSolverCuda.git
+
 # WifSolverCuda
 Tool for solving misspelled or damaged Bitcoin Private Key in Wallet Import Format (WIF)
 
